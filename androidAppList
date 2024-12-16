@@ -1,0 +1,43 @@
+[
+	{
+		"appName" : "Track Daily Expense & Budget",
+		"appLogo" : "https://play-lh.googleusercontent.com/PT_G0MQ513L_QjFPJwBsLxuhN07gn9FhSKA_3uJMk4TKZH7YeCB-5B3h1hOY2QoYAaHI=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=com.utility.expanseManager"
+
+	},
+	{
+		"appName" : "Task Management & To-Do List",
+		"appLogo" : "https://play-lh.googleusercontent.com/R2PF92IJKArs6AXQS9Qlv8JpXXWm_mJRPXph3AjedTWs3N95rGXj4q0HTWiXnRkwULj0=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=com.utility.taskmanagment"
+	},
+	{
+		"appName" : "Ahmedabad E Challan",
+		"appLogo" : "https://play-lh.googleusercontent.com/o2Rne8vbuscbezpKUlFNFtOVZ1hImM8n30qWCXmvNOOJXrKA0aWPqC19-a8Ve5HoCGB2=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=in.ahmedabad.echallan"
+	},
+	{
+		"appName" : "Financial Calculator",
+		"appLogo" : "https://play-lh.googleusercontent.com/Lyscf0PvK1o4ZQ2Mvq8EqOs00FcU2c9oIkkTmm9KzEn5DQsnct2hpjik044AcHE0lqA=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=com.utility.easyEMI"
+	},
+	{
+		"appName" : "Image compressor",
+		"appLogo" : "https://play-lh.googleusercontent.com/ds3q6I0F6c1dhqVfXldA6VCs8pMWUHFjL224MIt9pa8j1xanEM-T9M4A1uYjodDJKd4=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=com.utility.image_compressor"
+	},
+	{
+		"appName" : "PDF Converter",
+		"appLogo" : "https://play-lh.googleusercontent.com/pIue5WQD89XUuW3XeDsdKIJ7vYOw1X4cBJtvyLtb-JnkilBbvE1jSmU9pFs4DJiYYRI=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=com.utillity.pdfgenerator"
+	},
+	{
+		"appName" : "Better Contact Manager",
+		"appLogo" : "https://play-lh.googleusercontent.com/ocqorir11Ol_NbId8eADCxuLI0fb4QNwM-rI3XD--8sLsd5XHhWbSZPLx5DruzUgvWA=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=com.utility.contacts"
+	},
+	{
+		"appName" : "Surat E Challan",
+		"appLogo" : "https://play-lh.googleusercontent.com/gwidqx4XSxy0d9ap85EF4sHGqIyQ8MU4A_bBwRFE_SV7nkcJif7kgYTS2uPAa6UUst8=w240-h480-rw",
+		"playStoreLink" : "https://play.google.com/store/apps/details?id=in.surat.ememo"
+	},
+]
