@@ -4,9 +4,9 @@
 	"google_banner_id" : "ca-app-pub-3940256099942544/9214589741",
 	"google_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
 	"google_native_id" : "ca-app-pub-3940256099942544/2247696110",
-  "unity_app_id" : "1234567",
-  "unity_banner_id" : "1234567",
-  "unity_interstitial_id" : "1234567",
-  "unity_native_id" : "1234567",
-  "priority" : ["unity","google"]
+	"unity_app_id" : "1234567",
+	"unity_banner_id" : "1234567",
+	"unity_interstitial_id" : "1234567",
+	"unity_native_id" : "1234567",
+	"priority" : ["unity","google"]
 }
