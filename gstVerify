@@ -7,6 +7,5 @@
 	"unity_app_id" : "5756471",
 	"unity_banner_id" : "Banner_Android",
 	"unity_interstitial_id" : "Interstitial_Android",
-	"unity_native_id" : "1234567",
 	"priority" : ["google","unity"]
 }
