@@ -5,7 +5,8 @@
 	"android_interstitial_id" : "ca-app-pub-8567001840459388/1759339923",
 	"android_native_id" : "ca-app-pub-8567001840459388/8744824138",
 	"android_app_open_id" : "ca-app-pub-8567001840459388/6892686415",
-	"ios_app_id" : "ca-app-pub-3377923567985554~5201338015",
-	"ios_banner_id" : "ca-app-pub-3377923567985554/3353069723",
-	"ios_interstitial_id" : "ca-app-pub-3377923567985554/8103867364"
+	"unity_app_id" : "5756595",
+	"unity_banner_id" : "Banner_Android",
+	"unity_interstitial_id" : "Interstitial_Android",
+	"priority" : ["google","unity"]
 }
