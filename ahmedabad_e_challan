@@ -4,5 +4,9 @@
 	"android_banner_id" : "ca-app-pub-8567001840459388/8567583323",
 	"android_interstitial_id" : "ca-app-pub-8567001840459388/3315256645",
 	"android_native_id" : "ca-app-pub-8567001840459388/5714360718",
-	"android_app_open_id" : "ca-app-pub-8567001840459388/3345577620"
+	"android_app_open_id" : "ca-app-pub-8567001840459388/3345577620",
+	"unity_app_id" : "5756601",
+	"unity_banner_id" : "Banner_Android",
+	"unity_interstitial_id" : "Interstitial_Android",
+	"priority" : ["google","unity"]
 }
