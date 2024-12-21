@@ -1,9 +1,9 @@
 {
 	"adsEnable" : true,
-	"google_app_id" : "ca-app-pub-8567001840459388~9765114926",
-	"google_banner_id" : "ca-app-pub-3940256099942544/9214589741",
-	"google_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-	"google_native_id" : "ca-app-pub-3940256099942544/2247696110",
+	"google_app_id" : "ca-app-pub-8567001840459388~5518903689",
+	"google_banner_id" : "ca-app-pub-8567001840459388/8872954634",
+	"google_interstitial_id" : "ca-app-pub-8567001840459388/4945054583",
+	"google_native_id" : "ca-app-pub-8567001840459388/7559872963",
 	"unity_app_id" : "5756471",
 	"unity_banner_id" : "Banner_Android",
 	"unity_interstitial_id" : "Interstitial_Android",
