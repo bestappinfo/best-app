@@ -9,5 +9,5 @@
 	"unity_banner_id" : "Banner_Android",
 	"unity_interstitial_id" : "Interstitial_Android",
 	"priority" : ["google","unity"],
-	"searchTap" : 0
+	"searchTap" : 2
 }
