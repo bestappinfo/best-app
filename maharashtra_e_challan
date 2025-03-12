@@ -1,5 +1,5 @@
 {
-	"adsEnable" : true,
+	"adsEnable" : false,
 	"google_app_id" : "ca-app-pub-8567001840459388~5831734610",
 	"google_banner_id" : "ca-app-pub-8567001840459388/2483484727",
 	"google_interstitial_id" : "ca-app-pub-8567001840459388/9693020203",
