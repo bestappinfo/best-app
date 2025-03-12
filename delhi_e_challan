@@ -1,10 +1,10 @@
 {
-	"adsEnable" : false,
+	"adsEnable": false,
 	"google_app_id" : "ca-app-pub-8567001840459388~3592641559",
 	"google_banner_id" : "ca-app-pub-8567001840459388/9391763147",
 	"google_interstitial_id" : "ca-app-pub-8567001840459388/7994920990",
 	"google_native_id" : "ca-app-pub-8567001840459388/4272402054",
-	"unity_app_id" : "5777792",
+	"unity_app_id": "5777792",
 	"unity_banner_id" : "Banner_Android",
 	"unity_interstitial_id" : "Interstitial_Android",
 	"priority" : ["google","unity"],
