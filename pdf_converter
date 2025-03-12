@@ -1,5 +1,5 @@
 {
-	"adsEnable" : false,
+	"adsEnable" : true,
 	"android_app_id" : "ca-app-pub-8567001840459388~2086772206",
 	"android_banner_id" : "ca-app-pub-8567001840459388/5173968531",
 	"android_native_id" : "ca-app-pub-8567001840459388/5660048100",
