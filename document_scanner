@@ -1,9 +1,9 @@
 {
-	"adsEnable" : false,
+	"adsEnable" : true,
 	"google_app_id" : "ca-app-pub-8567001840459388~3164945657",
 	"google_banner_id" : "ca-app-pub-8567001840459388/5160553600",
 	"google_interstitial_id" : "ca-app-pub-8567001840459388/9667107961",
-	"google_native_id" : "ca-app-pub-3940256099942544/2247696110",
+	"google_native_id" : "ca-app-pub-8567001840459388/8668322260",
 	"unity_app_id" : "123456",
 	"unity_banner_id" : "Banner_Android",
 	"unity_interstitial_id" : "Interstitial_Android",
